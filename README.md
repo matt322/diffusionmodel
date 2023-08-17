@@ -1,5 +1,5 @@
 # diffusionmodel
-This diffusion model is trained to generate faces, and is based on some of the concepts in the Improved Denoising Diffusion Probabilistic Models paper. Here are some of the results:
+This diffusion model is trained to generate faces, and is based on some of the concepts in the Improved Denoising Diffusion Probabilistic Models paper. It has 76M parameters, and was trained for ~10 epochs on 70,000 128x128 images. Here are some of the results:
 
 ![image](https://github.com/matt322/diffusionmodel/assets/20477588/c4caabb9-5cc5-4d7b-a925-b4e35ec487d1)
 
